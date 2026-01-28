@@ -1,6 +1,8 @@
 body {
     background-color: cadetblue;
     color: white;
-    font-size: x-large;
+    font-size: xx-large;
     font-family: 'Caveat Brush', cursive;
+    text-align: center;
+    text-shadow: 10;
 }
