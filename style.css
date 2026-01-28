@@ -4,5 +4,9 @@ body {
     font-size: xx-large;
     font-family: 'Caveat Brush', cursive;
     text-align: center;
-    text-decoration: wavy;
+}
+
+h2 {
+    text-decoration: underline;
+    text-decoration-style: wavy;
 }
