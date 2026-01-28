@@ -9,4 +9,5 @@ body {
 h2 {
     text-decoration: underline;
     text-decoration-style: wavy;
+    text-decoration-color: inherit;
 }
