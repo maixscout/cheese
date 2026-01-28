@@ -1,1 +1,7 @@
-body {background-color: cadetblue;}
+body {
+    background-color: cadetblue;
+    color: white;
+    font-style: italic;
+    font-size: x-large;
+    
+}
