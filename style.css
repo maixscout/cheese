@@ -13,5 +13,7 @@ h2 {
 }
 
 img {
-    margin: 30px;
+    width: auto;
+    height: auto;
+    margin-top: 80px;
 }
