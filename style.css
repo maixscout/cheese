@@ -34,3 +34,8 @@ h2 {
     align-self: center;
     margin-top: 20px;
 }
+
+a {
+    color: white;
+    font-size: small
+}
