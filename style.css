@@ -12,3 +12,13 @@ h2 {
     text-decoration-color: white;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.items {
+    color: inherit;
+}
