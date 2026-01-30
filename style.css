@@ -22,3 +22,8 @@ h2 {
 .items {
     color: inherit;
 }
+
+.blinkie {
+    width: auto;
+    align-self: center;
+}
