@@ -29,8 +29,8 @@ h2 {
 }
 
 .blinkie {
-    width: 400px;
-    height: 100px;
+    width: 300;
+    height: auto;
     align-self: center;
     margin-top: 20px;
 }
