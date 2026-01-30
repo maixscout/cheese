@@ -26,6 +26,7 @@ h2 {
 
 .scout {
     margin-top: 20px;
+    animation: spin 10s linear infinite;
 }
 
 .blinkie {
