@@ -29,13 +29,14 @@ h2 {
 }
 
 .blinkie {
-    width: 600;
-    height: auto;
+    width: 700;
+    height: 300;
     align-self: center;
     margin-top: 20px;
 }
 
 a {
     color: white;
-    font-size: small
+    font-size: large;
+    margin-top: 20px;
 }
