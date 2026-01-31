@@ -33,7 +33,8 @@ a {
     color: black;
 }
 
-.sticker1 {
-   display: flex;
-   justify-content: center;
+#itemcontainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }

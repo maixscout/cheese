@@ -9,3 +9,8 @@
     font-size: large;
     color: black;
 }
+
+.gallery {
+    width: 300px;
+    height: auto;
+}
