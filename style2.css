@@ -9,3 +9,13 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.scoutdance {
+    animation: scoutmove 5s linear infinite;
+}
+
+@keyframes scoutmove {
+    25% {transform: translateY(400);}
+    75% {transform: translateY(-400);}
+    100% {transform: translateY(0);}
+}
