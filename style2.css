@@ -34,9 +34,6 @@ a {
 }
 
 .sticker1 {
-   align-items: left;
-}
-
-.sticker2 {
-   align-items: right;
+   display: flex;
+   justify-content: center;
 }
