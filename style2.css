@@ -23,9 +23,10 @@ body {
 
 a {
     font-size: small;
+    color: black;
 }
 
 .aaa {
     font-size: large;
-    margin-top: 10px;
+    color: black;
 }
