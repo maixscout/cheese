@@ -1,3 +1,11 @@
 body {
-    color: maroon;
+    background-color: maroon;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
