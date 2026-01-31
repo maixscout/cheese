@@ -11,6 +11,13 @@
 }
 
 .gallery {
-    width: 300px;
+    width: 100px;
     height: auto;
+}
+
+a {
+    font-size: medium;
+    color: black;
+    margin-top: 20px;
+    text-align: center;
 }
