@@ -26,7 +26,12 @@ h2 {
 
 .scout {
     margin-top: 20px;
-    animation: spin 10s linear infinite;
+    animation: ScoutRotate 10s linear infinite;
+}
+
+@keyframes ScoutRotate {
+    50% {transform: rotate(180deg);}
+    100% {transform: rotate(360deg);}
 }
 
 .blinkie {
