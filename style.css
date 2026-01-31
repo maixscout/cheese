@@ -26,7 +26,7 @@ h2 {
 
 .scout {
     margin-top: 20px;
-    animation: ScoutRotate 20s linear infinite;
+    animation: ScoutRotate 5s linear infinite;
 }
 
 @keyframes ScoutRotate {
