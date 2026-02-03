@@ -1,18 +1,14 @@
 .word {
     text-align: center;
     font-size: xx-large;
-    color: black
+    color: black;
+
 }
 
 .word2 {
     text-align: center;
     font-size: large;
     color: black;
-}
-
-.gallery {
-    width: 50px;
-    height: auto;
 }
 
 a {
@@ -24,4 +20,8 @@ a {
 
 .container {
     text-align: center;
+}
+
+.gallery {
+  width: 30%;
 }
