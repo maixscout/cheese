@@ -23,5 +23,6 @@ a {
 }
 
 .gallery {
-  width: 30%;
+  width: 30px;
+  height: 30px;
 }
